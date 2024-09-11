@@ -1,16 +1,28 @@
-## Hi there 👋
+```diff
++ ██   ██ ███████ ██      ██       ██████      ██     ██  ██████  ██      ██████  ██████
++ ██   ██ ██      ██      ██      ██    ██     ██     ██ ██    ██ ██      ██   ██ ██   ██
++ ███████ █████   ██      ██      ██    ██     ██  █  ██ ██    ██ ██      ██████  ██   ██
++ ██   ██ ██      ██      ██      ██    ██     ██ ███ ██ ██    ██ ██      ██   ██ ██   ██
++ ██   ██ ███████ ███████ ███████  ██████       ███ ███   ██████  ███████ ██   ██ ██████
+```
+#  Hi there, I'm Xavier.
+### Check my site:
+[My Portfolio](https://porto-folio-0w2s.onrender.com/)
+<br/>
+- 👨‍💻 New Backend Coder  
+- 🏔️ Hiker  
+- 💻 Tech Enthusiast  
+- 👨‍🔧 Problem Solver
+- 🎓 Computer Systems Tech Alumni - BCIT 
+## What can I do?
+- Software Progamming
+- Mobile Applications
+- Web Applications
+- Network Security
 
-<!--
-**XavierPim/XavierPim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- GitHub Readme Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=XavierPim&show_icons=true&hide_title=false&count_private=true&theme=dark" alt="Xavier Pimentel's GitHub Stats" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XavierPim&layout=compact&theme=dark" alt="Xavier Pimentel's Most Used Languages" />
