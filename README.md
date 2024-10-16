@@ -7,13 +7,14 @@
 ```
 #  Hi there, I'm Xavier.
 ### Check my site:
-[My Portfolio](https://porto-folio-0w2s.onrender.com/)
+[My Portfolio - https://xavierpi.dev/](https://xavierpi.dev/)
 <br/>
+- 🎓 Computer Systems Tech Alumni - BCIT 
 - 👨‍💻 New Backend Coder  
 - 🏔️ Hiker  
 - 💻 Tech Enthusiast  
 - 👨‍🔧 Problem Solver
-- 🎓 Computer Systems Tech Alumni - BCIT 
+
 ## What can I do?
 - Software Progamming
 - Mobile Applications
