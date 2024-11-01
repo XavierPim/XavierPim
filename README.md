@@ -22,10 +22,10 @@
 - Network Security
 
 
-<!-- GitHub Readme Stats -->
+<!-- Most Used Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XavierPim&layout=compact&theme=dark&hide=shell,cmake" alt="Top Languages" />
 
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XavierPim&layout=compact&theme=dark" alt="Most Used Languages" />
+<!-- GitHub Readme Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=XavierPim&show_icons=true&hide_title=false&count_private=true&theme=dark" alt="Xavier Pimentel's GitHub Stats" />
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/XavierP)
