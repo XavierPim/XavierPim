@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="230" viewBox="0 0 960 230" role="img" aria-labelledby="title description">
   <title id="title">Xavier Pimentel</title>
-  <desc id="description">Software developer and product systems builder</desc>
+  <desc id="description">Coder focused on maps, drones, tracking, and optimization</desc>
   <defs>
     <radialGradient id="glow" cx="10%" cy="0%" r="90%">
       <stop offset="0%" stop-color="#3bff31" stop-opacity="0.13" />
@@ -17,8 +17,8 @@
   <path d="M36 44H178" stroke="#3bff31" stroke-width="2" />
   <text x="36" y="36" fill="#8f9b8d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="2">PROFILE://XAVIERPIM</text>
   <text x="36" y="112" fill="#3bff31" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="44" font-weight="600" letter-spacing="2">XAVIER PIMENTEL</text>
-  <text x="38" y="151" fill="#d9d9d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" letter-spacing="1">SOFTWARE DEVELOPER / PRODUCT SYSTEMS</text>
-  <text x="38" y="190" fill="#8f9b8d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">Android, web, automation, and operational tooling</text>
+  <text x="38" y="151" fill="#d9d9d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" letter-spacing="1">MAPS / DRONES / TRACKING / OPTIMIZATION</text>
+  <text x="38" y="190" fill="#8f9b8d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">Any language. Any data shape. Any map.</text>
   <circle cx="894" cy="52" r="7" fill="#3bff31" />
   <circle cx="920" cy="52" r="7" fill="#40ae3b" />
 </svg>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Xavier Pimentel, software developer and product systems builder" width="100%" />
+  <img src="./assets/profile-header.svg" alt="Xavier Pimentel, coder focused on maps, drones, tracking, and optimization" width="100%" />
 </p>
 
 <p align="center">
@@ -10,22 +10,27 @@
   <a href="mailto:royxavierp@gmail.com">Email</a>
 </p>
 
-## Profile
+## Hey, I'm Xavier
 
-Software developer with product and operations experience improving team delivery, software performance, and operational workflows. I build Android, web, and workflow systems that turn manual processes into reliable products for teams and customers.
+I'm a coder who likes building software around movement, location, and the real world.
 
-Currently working as a Digital Product Developer at PHRAG Studio and as a self-employed Mobile App Developer through Perxent Technologies.
+Drones, group tracking, routing, coordinate systems, live positions, unusual shapes, and large geospatial datasets are the problems I naturally drift toward. If something moves across a map, needs to become a map, or makes a map run slowly, I want to work on it.
 
-## Selected work
+I care less about the language or framework than the shape of the problem. Kotlin, TypeScript, C#, Python, SQL, mobile, web, backend, or something new are all fair game if they help make the system clearer and faster.
 
-- **Assembl:** Building a real-time group-location product with React Native, TypeScript, ASP.NET Core, MySQL, Redis, and secure live-update services.
-- **Eagle Eyes Search:** Delivered Android product features, geospatial rendering improvements, visual-tracking optimizations, test tooling, and targeted field-update infrastructure.
-- **Takeout WMS:** Replaced memory-based warehouse inventory with a direct-count mobile workflow that standardized stock, ordering, and picking operations.
-- **PHRAG Studio:** Building the company's primary web, sales-inquiry, and customer-intake surface while partnering with the founder on product direction and messaging.
+## Optimization is the fun part
 
-## Working stack
+My favorite part of development is finding the unnecessary work inside a system. I like profiling slow paths, reducing repeated computation, simplifying data flow, cutting network and storage overhead, and making software feel immediate without making the code impossible to understand.
 
-`Kotlin` `Jetpack Compose` `TypeScript` `JavaScript` `React` `React Native` `C#` `ASP.NET Core` `Firebase` `SQL` `Docker` `Linux`
+That interest applies everywhere: map rendering, tracking pipelines, APIs, build tools, warehouse workflows, and the small interactions people repeat every day.
+
+## Open source
+
+### [RequestSRC](https://github.com/XavierPim/requestSRC)
+
+RequestSRC is an open-source Express middleware I built for understanding where requests come from and how an application is being used. It adds GeoIP context, privacy-friendly IP controls, PostgreSQL logging, and a real-time dashboard for filtering traffic by location and request type.
+
+It combines several things I enjoy: geospatial data, practical monitoring, privacy choices, useful visualizations, and turning raw events into something a person can understand quickly.
 
 ## GitHub activity
 
@@ -33,4 +38,4 @@ Currently working as a Digital Product Developer at PHRAG Studio and as a self-e
   <img src="./assets/profile-activity.svg" alt="Xavier Pimentel's GitHub contribution calendar and activity summary" width="100%" />
 </p>
 
-This activity card is generated from GitHub data by this repository's scheduled workflow. It does not depend on a third-party stats image service.
+This activity card is generated from GitHub data by this repository's scheduled workflow. No third-party stats image service is involved.
