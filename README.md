@@ -14,7 +14,7 @@
 
 - Coder focused on movement, location, and real-world systems.
 - Maps, drones, group tracking, routing, coordinates, live positions, unusual shapes, and large geospatial datasets.
-- Any language, framework, or platform that fits the problem.
+- Languages matter: each one translates a problem into a different shape.
 - Workflow tooling that removes repetition and connects building, testing, shipping, and operations.
 
 ## Optimization is the fun part
