@@ -18,6 +18,8 @@ Drones, group tracking, routing, coordinate systems, live positions, unusual sha
 
 I care less about the language or framework than the shape of the problem. Kotlin, TypeScript, C#, Python, SQL, mobile, web, backend, or something new are all fair game if they help make the system clearer and faster.
 
+I also like building workflow tooling: the connective software that removes repetitive steps, links systems together, and helps people move from an idea to building, testing, shipping, and operating it with less friction.
+
 ## Optimization is the fun part
 
 My favorite part of development is finding the unnecessary work inside a system. I like profiling slow paths, reducing repeated computation, simplifying data flow, cutting network and storage overhead, and making software feel immediate without making the code impossible to understand.
