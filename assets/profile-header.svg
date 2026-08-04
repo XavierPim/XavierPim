@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="230" viewBox="0 0 960 230" role="img" aria-labelledby="title description">
+  <title id="title">Xavier Pimentel</title>
+  <desc id="description">Software developer and product systems builder</desc>
+  <defs>
+    <radialGradient id="glow" cx="10%" cy="0%" r="90%">
+      <stop offset="0%" stop-color="#3bff31" stop-opacity="0.13" />
+      <stop offset="72%" stop-color="#050805" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <path d="M0 3.5H4" stroke="#d9d9d9" stroke-opacity="0.035" stroke-width="1" />
+    </pattern>
+  </defs>
+  <rect width="960" height="230" rx="14" fill="#050805" />
+  <rect width="960" height="230" rx="14" fill="url(#glow)" />
+  <rect x="1" y="1" width="958" height="228" rx="13" fill="none" stroke="#3bff31" stroke-opacity="0.42" stroke-width="2" />
+  <rect width="960" height="230" rx="14" fill="url(#scanlines)" />
+  <path d="M36 44H178" stroke="#3bff31" stroke-width="2" />
+  <text x="36" y="36" fill="#8f9b8d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="2">PROFILE://XAVIERPIM</text>
+  <text x="36" y="112" fill="#3bff31" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="44" font-weight="600" letter-spacing="2">XAVIER PIMENTEL</text>
+  <text x="38" y="151" fill="#d9d9d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" letter-spacing="1">SOFTWARE DEVELOPER / PRODUCT SYSTEMS</text>
+  <text x="38" y="190" fill="#8f9b8d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">Android, web, automation, and operational tooling</text>
+  <circle cx="894" cy="52" r="7" fill="#3bff31" />
+  <circle cx="920" cy="52" r="7" fill="#40ae3b" />
+</svg>
