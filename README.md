@@ -1,24 +1,36 @@
-#  Hi there, I'm Xavier.
-### Check my site:
-[My Portfolio - https://xavierpi.dev/](https://xavierpi.dev/)
-<br/>
-- 🎓 Computer Systems Tech Alumni - BCIT 
-- 👨‍💻 New Backend Coder  
-- 🏔️ Hiker  
-- 💻 Tech Enthusiast  
-- 👨‍🔧 Problem Solver
+<p align="center">
+  <img src="./assets/profile-header.svg" alt="Xavier Pimentel, software developer and product systems builder" width="100%" />
+</p>
 
-## What can I do?
-- Software Progamming
-- Mobile Applications
-- Web Applications
-- Network Security
+<p align="center">
+  <a href="https://me.perxent.net">Portfolio</a> |
+  <a href="https://me.perxent.net/experience">Experience</a> |
+  <a href="https://me.perxent.net/projects">Projects</a> |
+  <a href="https://www.linkedin.com/in/xavier-p-0a5b48132/">LinkedIn</a> |
+  <a href="mailto:royxavierp@gmail.com">Email</a>
+</p>
 
+## Profile
 
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XavierPim&layout=compact&theme=dark&hide=shell,cmake" alt="Top Languages" />
+Software developer with product and operations experience improving team delivery, software performance, and operational workflows. I build Android, web, and workflow systems that turn manual processes into reliable products for teams and customers.
 
-<!-- GitHub Readme Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=XavierPim&show_icons=true&hide_title=false&count_private=true&theme=dark" alt="Xavier Pimentel's GitHub Stats" />
+Currently working as a Digital Product Developer at PHRAG Studio and as a self-employed Mobile App Developer through Perxent Technologies.
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/XavierP)
+## Selected work
+
+- **Assembl:** Building a real-time group-location product with React Native, TypeScript, ASP.NET Core, MySQL, Redis, and secure live-update services.
+- **Eagle Eyes Search:** Delivered Android product features, geospatial rendering improvements, visual-tracking optimizations, test tooling, and targeted field-update infrastructure.
+- **Takeout WMS:** Replaced memory-based warehouse inventory with a direct-count mobile workflow that standardized stock, ordering, and picking operations.
+- **PHRAG Studio:** Building the company's primary web, sales-inquiry, and customer-intake surface while partnering with the founder on product direction and messaging.
+
+## Working stack
+
+`Kotlin` `Jetpack Compose` `TypeScript` `JavaScript` `React` `React Native` `C#` `ASP.NET Core` `Firebase` `SQL` `Docker` `Linux`
+
+## GitHub activity
+
+<p align="center">
+  <img src="./assets/profile-activity.svg" alt="Xavier Pimentel's GitHub contribution calendar and activity summary" width="100%" />
+</p>
+
+This activity card is generated from GitHub data by this repository's scheduled workflow. It does not depend on a third-party stats image service.
