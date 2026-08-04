@@ -12,27 +12,27 @@
 
 ## Hey, I'm Xavier
 
-I'm a coder who likes building software around movement, location, and the real world.
-
-Drones, group tracking, routing, coordinate systems, live positions, unusual shapes, and large geospatial datasets are the problems I naturally drift toward. If something moves across a map, needs to become a map, or makes a map run slowly, I want to work on it.
-
-I care less about the language or framework than the shape of the problem. Kotlin, TypeScript, C#, Python, SQL, mobile, web, backend, or something new are all fair game if they help make the system clearer and faster.
-
-I also like building workflow tooling: the connective software that removes repetitive steps, links systems together, and helps people move from an idea to building, testing, shipping, and operating it with less friction.
+- Coder focused on movement, location, and real-world systems.
+- Maps, drones, group tracking, routing, coordinates, live positions, unusual shapes, and large geospatial datasets.
+- Any language, framework, or platform that fits the problem.
+- Workflow tooling that removes repetition and connects building, testing, shipping, and operations.
 
 ## Optimization is the fun part
 
-My favorite part of development is finding the unnecessary work inside a system. I like profiling slow paths, reducing repeated computation, simplifying data flow, cutting network and storage overhead, and making software feel immediate without making the code impossible to understand.
-
-That interest applies everywhere: map rendering, tracking pipelines, APIs, build tools, warehouse workflows, and the small interactions people repeat every day.
+- Profiling slow paths and finding unnecessary work.
+- Less repeated computation, network traffic, storage overhead, and user friction.
+- Faster map rendering, tracking pipelines, APIs, build tools, and everyday workflows.
+- Clear code after the optimization is finished.
 
 ## Open source
 
 ### [RequestSRC](https://github.com/XavierPim/requestSRC)
 
-RequestSRC is an open-source Express middleware I built for understanding where requests come from and how an application is being used. It adds GeoIP context, privacy-friendly IP controls, PostgreSQL logging, and a real-time dashboard for filtering traffic by location and request type.
-
-It combines several things I enjoy: geospatial data, practical monitoring, privacy choices, useful visualizations, and turning raw events into something a person can understand quickly.
+- Open-source Express request-monitoring middleware.
+- GeoIP context and location-aware traffic analysis.
+- Privacy-friendly IP controls and PostgreSQL logging.
+- Real-time filtering by location and request type.
+- Raw events turned into understandable visual information.
 
 ## GitHub activity
 
@@ -40,4 +40,5 @@ It combines several things I enjoy: geospatial data, practical monitoring, priva
   <img src="./assets/profile-activity.svg" alt="Xavier Pimentel's GitHub contribution calendar and activity summary" width="100%" />
 </p>
 
-This activity card is generated from GitHub data by this repository's scheduled workflow. No third-party stats image service is involved.
+- Generated from GitHub data by this repository's scheduled workflow.
+- No third-party stats image service.
