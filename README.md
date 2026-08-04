@@ -10,35 +10,38 @@
   <a href="mailto:royxavierp@gmail.com">Email</a>
 </p>
 
-## Hey, I'm Xavier
+## What I work on
 
-- Coder focused on movement, location, and real-world systems.
-- Maps, drones, group tracking, routing, coordinates, live positions, unusual shapes, and large geospatial datasets.
-- Languages matter: each one translates a problem into a different shape.
-- Workflow tooling that removes repetition and connects building, testing, shipping, and operations.
+### Geospatial Software
 
-## Optimization is the fun part
+### Drone Systems
 
-- Profiling slow paths and finding unnecessary work.
-- Less repeated computation, network traffic, storage overhead, and user friction.
-- Faster map rendering, tracking pipelines, APIs, build tools, and everyday workflows.
-- Clear code after the optimization is finished.
+### Group Tracking
 
-## Open source
+### Map Rendering
 
-### [RequestSRC](https://github.com/XavierPim/requestSRC)
+### Detection Pipelines
 
-- Open-source Express request-monitoring middleware.
-- GeoIP context and location-aware traffic analysis.
-- Privacy-friendly IP controls and PostgreSQL logging.
-- Real-time filtering by location and request type.
-- Raw events turned into understandable visual information.
+### Optimization
+
+### Workflow Tooling
+
+## [Projects](https://me.perxent.net/projects)
+
+### MIA + Builder
+
+### Takeout WMS
+
+### Umbrella
+
+### [requestSRC](https://github.com/XavierPim/requestSRC)
+
+### RemoteShell
+
+### PHRAG Studio
 
 ## GitHub activity
 
 <p align="center">
   <img src="./assets/profile-activity.svg" alt="Xavier Pimentel's GitHub contribution calendar and activity summary" width="100%" />
 </p>
-
-- Generated from GitHub data by this repository's scheduled workflow.
-- No third-party stats image service.
