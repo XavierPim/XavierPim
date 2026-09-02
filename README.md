@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Xavier Pimentel, coder focused on maps, drones, tracking, and optimization" width="100%" />
+  <img src="./assets/profile-header.svg" alt="Xavier Pimentel, product manager and software developer building practical systems" width="100%" />
 </p>
 
 <p align="center">
@@ -10,31 +10,23 @@
   <a href="mailto:royxavierp@gmail.com">Email</a>
 </p>
 
-## What I work on
+## Focus
 
-### Geospatial Software
-
-### Drone Systems
-
-### Group Tracking
-
-### Map Rendering
-
-### Detection Pipelines
-
-### Optimization
-
-### Workflow Tooling
+Product-minded software development across geospatial systems, Android apps,
+backend services, databases, developer tooling, warehouse management, and CRM
+workflows.
 
 ## [Projects](https://me.perxent.net/projects)
 
-### MIA + Builder
+### [MIA + Builder](https://me.perxent.net/projects)
 
-- Mobile agent scaffold connecting project conversations, remote builds, artifacts, patches, and device testing.
+- Private mobile agent scaffold connecting project conversations, remote builds,
+  artifacts, patches, and device testing.
 
-### Takeout WMS
+### [Takeout WMS](https://me.perxent.net/projects)
 
-- Warehouse management system for SKU search, structured counts, locations, par levels, and supplier reorders.
+- Independent warehouse management system in development for SKU search,
+  structured counts, locations, par levels, and supplier reorders.
 
 ### [Umbrella](https://umbrellabby15.web.app/)
 
@@ -48,9 +40,10 @@
 
 - C networking scaffold for IPv4 sockets, server lifecycles, signals, and concurrent connections.
 
-### PHRAG Studio
+### [PHRAG Studio](https://me.perxent.net/projects)
 
-- CRM and public web platform connecting contacts, projects, material records, inquiries, and studio content.
+- Private CRM and public web platform for a biomaterials studio, connecting
+  contacts, projects, material records, inquiries, and published content.
 
 ## GitHub activity
 
