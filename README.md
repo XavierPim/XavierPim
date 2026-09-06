@@ -6,7 +6,7 @@
   <a href="https://me.perxent.net">Portfolio</a> |
   <a href="https://me.perxent.net/experience">Experience</a> |
   <a href="https://me.perxent.net/projects">Projects</a> |
-  <a href="https://www.linkedin.com/in/xavier-p-0a5b48132/">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/xavierpim">LinkedIn</a> |
   <a href="mailto:royxavierp@gmail.com">Email</a>
 </p>
 
